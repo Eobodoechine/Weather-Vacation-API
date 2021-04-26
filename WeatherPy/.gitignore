@@ -1,1 +1,2 @@
+api_keyz.py $ git rm --cached api_keyz.py rm api_keyz.py $ git commit -m Start ignoring api_key.py
 api_keyz.py $ git rm --cached api_keyz.py rm api_keyz.py $ git commit -m Start ignoring api_keyz.py
